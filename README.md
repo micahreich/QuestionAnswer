@@ -15,5 +15,7 @@ This question-answering system utilizes a GRU (gated recurrent unit) deep neural
 GRU Networks utilize two gates to deal with the problem of "vanishing gradients" which arise in regular recurrent neural networks.
 To do this, GRU networks use a update and reset gate.
 
-- The update gate: decides which information to pass along from previous time steps of the model to future cells
-- The reset gate: decides decides which information to forget from previous time steps
+- **The update gate:** decides which information to pass along from previous time steps of the model to future cells
+- **The reset gate:** decides decides which information to forget from previous time steps
+
+There's also a whole bunch of math involved, like linear algebra and calculus, but we won't get into that right now.
