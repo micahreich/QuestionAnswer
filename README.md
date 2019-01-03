@@ -1,4 +1,4 @@
-# QuestionAnswer
+# Dynamic Memory Network for QA Systems
 ### Introduction
 I created this project to showcase the abilities of deep neural networks with regard to natural language processing tasks such as question-answering systems. 
 This project was created for educational purposes only and is by no means perfect. If you have any questions, please feel free to contact me at micahreich02@gmail.com
